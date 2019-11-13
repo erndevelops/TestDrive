@@ -1,1 +1,1 @@
-lib/Test/BDD/Test.pm
+lib/Test/BDD/test.pm
